@@ -1,8 +1,20 @@
-body{
+.body{
+    background-color: lightblue;
     font-family: 'Quicksand', sans-serif;
     color: #ffffff;
     font-size: 1.25rem;
     
+}
+.container{
+     background-color:#00fcdc ;
+}
+.h1{
+    font-size: 3rem; 
+    text-align: center;
+}
+.p{
+    text-align: justify;
+
 }
 
 .li{
