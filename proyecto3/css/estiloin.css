@@ -12,7 +12,7 @@ h1{
     font-size: 3rem; 
     text-align: center;
 }
-.p{
+p{
     text-align: justify;
 
 }
@@ -24,13 +24,13 @@ h1{
     font-size: 1.25rem;
 }
 
-.a{
+a{
     color: #00b6ab;
      font-family: fantasy;
     font-size: 1.25rem;
 
 }
-.nav{
+nav{
     color: #008284;
      font-family: fantasy;
     font-size: 1.25rem;
